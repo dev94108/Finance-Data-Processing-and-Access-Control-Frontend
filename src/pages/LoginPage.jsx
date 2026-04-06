@@ -80,7 +80,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-xs text-surface-400 mt-6">
-          Default admin: email - admin123@gmail.com / password - 1234567890 (login with these credentials for testing)
+          Default admin: email - admin123@gmail.com / password - 1234567890 (login with these credentials for testing. Also it could take a while to login for the first time as the backend is hosted on a free-tier server and may be asleep so please be patient)
         </p>
       </div>
     </div>
